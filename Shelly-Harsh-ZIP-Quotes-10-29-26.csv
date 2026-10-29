@@ -1,0 +1,132 @@
+zip,county,city,leads,auto_leads,home_leads,leads_aug,leads_sep,leads_oct,homeowners,in_status_file,contacted,quoted,sold,inbound_callers,inbound_calls
+81302,La Plata,Durango,1,1,0,0,1,0,0,1,1,1,1,1,1
+81007,Pueblo,Pueblo,11,6,5,2,7,2,7,6,2,2,0,1,1
+80204,Denver,Denver,8,7,1,1,5,2,2,7,1,1,0,1,1
+80918,El Paso,Colorado Springs,6,4,2,4,1,1,3,1,1,1,0,0,0
+80013,Arapahoe,Aurora,4,3,1,0,3,1,1,3,1,1,0,0,0
+80631,Weld,Greeley,4,4,0,2,1,1,0,2,1,1,0,1,1
+80831,El Paso,Peyton,4,2,2,1,1,2,3,2,1,1,0,0,0
+81005,Pueblo,Pueblo,4,4,0,2,2,0,3,2,1,1,0,0,0
+80120,Arapahoe,Littleton,3,3,0,0,1,2,0,2,1,1,0,0,0
+80123,Jefferson,Littleton,3,1,2,1,2,0,3,1,1,1,0,0,0
+80221,Adams,Denver,3,2,1,0,3,0,2,2,1,1,0,0,0
+80908,El Paso,Colorado Springs,3,1,2,0,3,0,2,3,1,1,0,0,0
+80909,El Paso,Colorado Springs,3,0,3,0,2,1,3,2,1,1,0,0,0
+80017,Arapahoe,Aurora,2,2,0,0,2,0,0,1,1,1,0,0,0
+80018,Arapahoe,Aurora,2,1,1,0,2,0,2,1,1,1,0,0,0
+80104,Douglas,Castle Rock,2,1,1,0,1,1,2,2,1,1,0,0,0
+80222,Denver,Denver,2,2,0,0,2,0,0,2,1,1,0,1,1
+80223,Denver,Northglenn,2,2,0,0,2,0,0,1,1,1,0,0,0
+80503,Boulder,Longmont,2,1,1,0,1,1,1,1,1,1,0,0,0
+80504,Weld,Longmont,2,0,2,0,0,2,2,2,1,1,0,0,0
+80525,Larimer,Fort Collins,2,2,0,1,1,0,0,1,1,1,0,0,0
+80603,Weld,Brighton,2,1,1,1,1,0,1,1,1,1,0,0,0
+80907,El Paso,Co Spgs,2,2,0,0,1,1,1,1,1,1,0,1,1
+80102,Adams,Bennett,1,1,0,0,1,0,1,1,1,1,0,0,0
+80219,Denver,Denver,1,1,0,0,1,0,0,1,1,1,0,0,0
+80234,Adams,Westminster,1,1,0,0,1,0,0,1,1,1,0,1,1
+80444,Clear Creek,Georgetown,1,0,1,0,1,0,1,1,1,1,0,0,0
+80624,Weld,Gill,1,0,1,0,1,0,1,1,1,1,0,0,0
+80749,Sedgwick,Sedgwick,1,0,1,0,1,0,1,1,1,1,0,1,1
+80807,Kit Carson,Burlington,1,1,0,0,1,0,0,1,1,1,0,0,0
+80921,El Paso,Colorado Springs,1,1,0,0,1,0,0,1,1,1,0,0,0
+81039,Otero,Fowler,1,0,1,0,1,0,1,1,1,1,0,0,0
+81416,Delta,Delta,1,1,0,0,1,0,0,1,1,1,0,0,0
+81503,Mesa,Grand Junction,1,1,0,0,0,1,0,1,1,1,0,0,0
+81507,Mesa,Grand Junction,1,1,0,0,0,1,0,1,1,1,0,0,0
+80231,Denver,Denver,5,4,1,3,2,0,1,0,0,0,0,1,2
+80911,El Paso,Colorado Springs,5,3,2,2,1,2,3,2,0,0,0,0,0
+80033,Jefferson,Wheat Ridge,4,4,0,3,0,1,0,1,0,0,0,0,0
+80110,Arapahoe,Englewood,4,3,1,0,2,2,1,1,0,0,0,1,1
+80015,Arapahoe,Centennial,3,3,0,1,1,1,1,1,0,0,0,0,0
+80031,Adams,Westminster,3,3,0,0,2,1,0,1,0,0,0,0,0
+80211,Denver,Denver,3,2,1,0,2,1,1,1,1,0,0,2,4
+80214,Jefferson,Lakewood,3,3,0,2,1,0,0,0,0,0,0,0,0
+80246,Denver,Denver,3,3,0,0,2,1,0,3,0,0,0,0,0
+80401,Jefferson,Golden,3,2,1,1,2,0,1,1,0,0,0,1,1
+80538,Larimer,Loveland,3,2,1,1,0,2,1,1,0,0,0,1,1
+80620,Weld,Evans,3,3,0,2,0,1,0,1,0,0,0,0,0
+80634,Weld,Greeley,3,3,0,2,1,0,0,1,0,0,0,1,1
+80904,El Paso,Colorado Springs,3,1,2,1,1,1,2,2,0,0,0,0,0
+81003,Pueblo,Pueblo,3,2,1,1,1,1,2,0,0,0,0,0,0
+80002,Jefferson,Arvada,2,2,0,0,2,0,0,1,0,0,0,1,1
+80003,Jefferson,Arvada,2,2,0,2,0,0,0,0,0,0,0,1,2
+80004,Jefferson,Arvada,2,2,0,0,1,1,0,1,0,0,0,0,0
+80010,Arapahoe,Aurora,2,2,0,2,0,0,0,0,0,0,0,0,0
+80020,Broomfield,Broomfield,2,2,0,1,1,0,0,1,0,0,0,0,0
+80030,Adams,Westminster,2,1,1,0,0,2,1,1,0,0,0,0,0
+80229,Adams,Thornton,2,2,0,1,0,1,1,0,0,0,0,0,0
+80233,Adams,Denver,2,2,0,0,1,1,1,1,0,0,0,0,0
+80237,Denver,Denver,2,2,0,2,0,0,0,0,0,0,0,0,0
+80239,Denver,Denver,2,2,0,1,1,0,0,0,0,0,0,1,1
+80301,Boulder,Boulder,2,1,1,0,1,1,1,2,0,0,0,0,0
+80501,Boulder,Longmont,2,2,0,0,1,1,0,1,0,0,0,1,1
+80521,Larimer,Fort Collins,2,2,0,0,2,0,0,1,0,0,0,0,0
+80601,Adams,Brighton,2,2,0,0,0,2,0,0,0,0,0,0,0
+80610,Weld,Ault,2,2,0,0,2,0,2,0,0,0,0,0,0
+80910,El Paso,Colorado Springs,2,2,0,2,0,0,0,0,0,0,0,0,0
+80924,El Paso,Colorado Springs,2,2,0,1,0,1,0,0,0,0,0,0,0
+81082,Las Animas,Trinidad,2,0,2,1,0,1,2,0,0,0,0,0,0
+81601,Garfield,Glenwood Springs,2,2,0,0,1,1,0,1,0,0,0,0,0
+80011,Adams,Aurora,1,1,0,0,1,0,0,1,0,0,0,0,0
+80012,Arapahoe,Aurora,1,1,0,0,0,1,0,0,0,0,0,0,0
+80021,Jefferson,Broomfield,1,1,0,1,0,0,0,0,0,0,0,0,0
+80026,Boulder,Lafayette,1,1,0,0,0,1,0,1,0,0,0,0,0
+80107,Elbert,Elizabeth,1,0,1,0,1,0,1,1,0,0,0,0,0
+80109,Douglas,Castle Rock,1,0,1,0,1,0,1,1,0,0,0,0,0
+80111,Arapahoe,Englewood,1,0,1,0,0,1,1,1,0,0,0,0,0
+80112,Arapahoe,Centennial,1,1,0,0,1,0,0,0,0,0,0,0,0
+80117,Elbert,Kiowa,1,0,1,0,1,0,1,0,0,0,0,1,1
+80121,Arapahoe,Centennial,1,1,0,1,0,0,0,0,0,0,0,0,0
+80126,Douglas,Littleton,1,0,1,0,1,0,1,1,0,0,0,0,0
+80128,Jefferson,Littleton,1,0,1,0,0,1,1,0,0,0,0,0,0
+80129,Douglas,Littleton,1,1,0,0,1,0,0,0,0,0,0,0,0
+80137,Adams,Watkins,1,1,0,0,1,0,0,1,0,0,0,0,0
+80150,Arapahoe,Englewood,1,1,0,1,0,0,0,0,0,0,0,0,0
+80202,Denver,Denver,1,1,0,0,1,0,0,1,0,0,0,0,0
+80203,Denver,Denver,1,1,0,1,0,0,0,0,0,0,0,1,1
+80207,Denver,Denver,1,0,1,0,0,1,1,0,0,0,0,0,0
+80209,Denver,Denver,1,1,0,1,0,0,0,0,0,0,0,0,0
+80212,Denver,Denver,1,0,1,1,0,0,1,0,0,0,0,0,0
+80220,Denver,Denver,1,1,0,0,0,1,0,1,1,0,0,0,0
+80224,Denver,Denver,1,1,0,1,0,0,0,0,0,0,0,0,0
+80238,Denver,Denver,1,1,0,1,0,0,1,0,0,0,0,0,0
+80249,Denver,Denver,1,1,0,0,1,0,0,1,0,0,0,0,0
+80303,Boulder,Boulder,1,1,0,0,1,0,0,1,0,0,0,0,0
+80305,Boulder,Boulder,1,0,1,0,1,0,1,1,0,0,0,0,0
+80420,Park,Alma,1,0,1,0,1,0,1,0,0,0,0,0,0
+80424,Summit,Blue River,1,1,0,0,1,0,1,0,0,0,0,0,0
+80513,Larimer,Berthoud,1,1,0,0,1,0,1,1,0,0,0,0,0
+80516,Boulder,Erie,1,1,0,0,1,0,0,1,0,0,0,0,0
+80524,Larimer,Fort Collins,1,1,0,0,1,0,0,0,0,0,0,0,0
+80526,Larimer,Fort Collins,1,1,0,1,0,0,0,0,0,0,0,0,0
+80528,Larimer,Fort Collins,1,1,0,1,0,0,0,0,0,0,0,0,0
+80534,Weld,Johnstown,1,0,1,0,0,1,1,0,0,0,0,0,0
+80550,Weld,Windsor,1,1,0,0,1,0,0,1,0,0,0,0,0
+80602,Adams,Thornton,1,0,1,0,1,0,1,1,0,0,0,0,0
+80621,Weld,Fort Lupton,1,0,1,0,1,0,1,1,0,0,0,0,0
+80651,Weld,Platteville,1,1,0,0,1,0,0,0,0,0,0,0,0
+80743,Washington,Otis,1,0,1,0,0,1,1,0,0,0,0,0,0
+80758,Yuma,Wray,1,1,0,1,0,0,0,0,0,0,0,0,0
+80815,Kit Carson,Flagler,1,0,1,0,1,0,1,1,0,0,0,0,0
+80817,El Paso,Fountain,1,0,1,0,1,0,1,1,0,0,0,0,0
+80903,El Paso,Colorado Springs,1,1,0,0,0,1,0,1,0,0,0,1,1
+80905,El Paso,Colorado Springs,1,1,0,1,0,0,1,0,0,0,0,0,0
+80906,El Paso,Colorado Springs,1,0,1,0,0,1,1,0,0,0,0,0,0
+80922,El Paso,Colorado Springs,1,1,0,1,0,0,0,0,0,0,0,0,0
+80927,El Paso,Colorado Springs,1,1,0,0,1,0,0,1,0,0,0,0,0
+81001,Pueblo,Pueblo,1,1,0,0,1,0,0,0,0,0,0,0,0
+81052,Prowers,Lamar,1,1,0,1,0,0,0,0,0,0,0,0,0
+81054,Bent,Las Animas,1,1,0,1,0,0,1,0,0,0,0,0,0
+81089,Huerfano,Walsenburg,1,0,1,1,0,0,1,0,0,0,0,0,0
+81133,Costilla,Fort Garland,1,0,1,0,0,1,1,0,0,0,0,0,0
+81201,Chaffee,Salida,1,1,0,0,1,0,0,0,0,0,0,0,0
+81240,Fremont,Penrose,1,0,1,1,0,0,1,0,0,0,0,0,0
+81252,Custer,Westcliffe,1,0,1,0,1,0,1,1,0,0,0,0,0
+81401,Montrose,Montrose,1,0,1,1,0,0,1,0,0,0,0,0,0
+81504,Mesa,Grand Junction,1,1,0,0,1,0,0,1,0,0,0,0,0
+81506,Mesa,Grand Junction,1,1,0,0,1,0,0,1,0,0,0,0,0
+81625,Moffat,Craig,1,0,1,1,0,0,1,0,0,0,0,0,0
+81632,Eagle,Edwards,1,1,0,1,0,0,1,0,0,0,0,0,0
+81650,Garfield,Rifle,1,0,1,1,0,0,1,0,0,0,0,0,0
+81652,Garfield,Silt,1,0,1,0,1,0,1,0,0,0,0,0,0

@@ -288,7 +288,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="panel">
         <div class="pt">Largest Extreme-tier ZIPs by housing units</div>
         <table class="mtable">
-          <thead><tr><th>ZIP</th><th>County</th><th class="r">Score 0&ndash;100</th><th class="r">Hail score</th><th class="r">Wildfire score</th><th class="r">Residents in high-wildfire tracts</th><th class="r">Housing units</th></tr></thead>
+          <thead><tr><th>ZIP</th><th>County</th><th class="r">Score 0 to 100</th><th class="r">Hail score</th><th class="r">Wildfire score</th><th class="r">Residents in high-wildfire tracts</th><th class="r">Housing units</th></tr></thead>
           <tbody>
             <tr><td class="nm">80016</td><td>Arapahoe County</td><td class="r">82.4</td><td class="r">98.9</td><td class="r">76.8</td><td class="r">0%</td><td class="r">24,763</td></tr>
 <tr><td class="nm">80022</td><td>Adams County</td><td class="r">82.8</td><td class="r">98.7</td><td class="r">69.7</td><td class="r">0%</td><td class="r">21,084</td></tr>
@@ -437,7 +437,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="panel">
         <ul class="cfg">
             <li><span class="ck">Risk source</span><span class="cv">FEMA National Risk Index, census tract table, December 2025 release (hail, wildfire, strong wind, winter weather, tornado), all 1,447 Colorado tracts.</span></li>
-            <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file. The file reports land-area overlaps, not population, so each tract&#39;s values are weighted into a ZIP by the tract&#39;s population times the share of its land inside the ZIP. Tract parts outside Colorado are not scored. Housing counts from ACS 2020&ndash;2024.</span></li>
+            <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file. The file reports land-area overlaps, not population, so each tract&#39;s values are weighted into a ZIP by the tract&#39;s population times the share of its land inside the ZIP. Tract parts outside Colorado are not scored. Housing counts from ACS 2020 to 2024.</span></li>
             <li><span class="ck">Leads</span><span class="cv">All 331 GOAL leads for this account, including Marketplace (Home and Home Marketplace homeowners, Auto and Auto Marketplace), Aug 17 to Oct 14, 2026, counted by ZIP. 116 of 116 Home leads and 213 of 215 Auto leads matched a populated Colorado ZIP; the others used PO-box ZIPs (80150, 81302).</span></li>
             <li><span class="ck">Limits</span><span class="cv">A ZIP score describes the ZIP, not a house. Roof condition, construction and defensible space decide each quote; the tiers decide where to ask first.</span></li>
             <li><span class="ck">Files</span><span class="cv"><a href="Shelly-Harsh-CO-ZIP-Data-10-14-26.csv" style="color:var(--blue)"><b>Shelly-Harsh-CO-ZIP-Data-10-14-26.csv</b></a> &middot; every ZIP, every score, tier and treatment column, plus the demographics used in the companion report.</span></li>
